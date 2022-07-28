@@ -1,2 +1,2 @@
-# NEET
-NEET Preparation Mobile Application
+# NEET Preparation Mobile Application
+An interactive mobile application with NEET coaching centres serving as the admin interface and aspirants as the user interface. It can be used to enrol in NEET preparation classes. Students can also test their knowledge using a quiz module. Android Studio was used to develop the application, Java was used to code and Quizstar was used to create the quiz module.
